@@ -1,0 +1,11 @@
+Yinu, Male, 12, POker, Habbit, Female, 15, Habbit, POker, 189 
+Eliyuo, Female, 11, career, dominantHabbit, Male, 29, Habbit, preffer, black
+Or, Male, 34, career, dominant, Male, 33, preffer, Career, 200 
+Liza, Male, 15, career, dominant, Female, 70, preffer, POker, 180 
+Nufar, Male, 17, career, dominantHabbit, Female, 15, preffer, Career, 170 
+Benzi, Female, 22, POker, tHabbit, Male, 80, preffer, POker, blonde 
+Ilya, Female, 67, career, dominant, Male, 89, Habbit, Career, black 
+Shay, Female, 45, POker, dominant, Male, 100, Habbit, POker, pink 
+Kobi, Male, 78, career, Habbit, Female, 30, dominant, Career, 190 
+Reem, Female, 55, career, Habbit, Male, 32, Habbit, POker, blue 
+Sap, Female, 44, career, Habbit, Male, 17, dominant, POker, black 
